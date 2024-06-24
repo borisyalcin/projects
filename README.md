@@ -7,3 +7,6 @@
 ## Engineering and ETL Projects
 
 * <a href="https://borisyalcin.github.io/data-cleaning/"> Python and SQL ETL and Data Analysis for Game-dev Industry </a>
+
+##### Disclaimer
+The projects showcased here are built using mock or publicly available online data. This approach is taken to protect the confidentiality and proprietary information of the companies involved. Any resemblance to real data is purely coincidental and unintentional. The use of simulated data ensures compliance with confidentiality agreements and maintains the security of sensitive company information.
